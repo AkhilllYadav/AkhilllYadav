@@ -100,9 +100,31 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilllyadav&show_icons=true&locale=en&layout=compact" alt="akhilllyadav" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilllyadav&show_icons=true&locale=en" alt="akhilllyadav" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilllyadav&" alt="akhilllyadav" /></p>
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilllyadav&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilllyadav&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilllyadav&theme=radical" alt="GitHub Streak" />
+</p>
+<p>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhilllyadav&theme=radical" alt="Profile Details" />
+</p>
+<p>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=akhilllyadav&theme=radical&no-frame=true&row=1" alt="GitHub Trophies" />
+</p>
+<p>
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=akhilllyadav&theme=radical" alt="Contribution Graph" />
+</p>
+
+---
+
 
 ---
 
