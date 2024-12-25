@@ -28,28 +28,28 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://logowik.com/content/uploads/images/tensorflow9721.jpg" alt="TensorFlow" width="40" height="40"/>
+    <img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-1911x2048-1m2s54vn.png" alt="TensorFlow" width="40" height="40"/>
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://logowik.com/content/uploads/images/pytorch3781.logowik.com.webp" alt="PyTorch" width="40" height="40"/>
+    <img src="https://static-00.iconduck.com/assets.00/pytorch-icon-423x512-6xpyyw7t.png" alt="PyTorch" width="40" height="40"/>
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://logowik.com/content/uploads/images/jupyter2017.logowik.com.webp" alt="Jupyter" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://logowik.com/content/uploads/images/pandas4605.jpg" alt="Pandas" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" alt="Pandas" width="40" height="40"/>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://logowik.com/content/uploads/images/numpy8457.jpg" alt="NumPy" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1024px-NumPy_logo_2020.svg.png" alt="NumPy" width="40" height="40"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://logowik.com/content/uploads/images/scikit-learn5890.logowik.com.webp" alt="Scikit-Learn" width="40" height="40"/>
+    <img src="https://e7.pngegg.com/pngimages/309/384/png-clipart-scikit-learn-python-computer-icons-scikit-machine-learning-learning-text-orange-thumbnail.png" alt="Scikit-Learn" width="40" height="40"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://logowik.com/content/uploads/images/matplotlib1573.logowik.com.webp" alt="Matplotlib" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" alt="Matplotlib" width="40" height="40"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://logowik.com/content/uploads/images/seaborn3845.jpg" alt="Seaborn" width="40" height="40"/>
+    <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   </a>
 </p>
 
