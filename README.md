@@ -98,16 +98,16 @@
 <h3 align="left">🌐 Social Media:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/akhilllyadav" target="_blank">
-    <img src="https://logowik.com/content/uploads/images/linkedin7555.jpg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMy0xMC5wbmc.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://github.com/AkhilllYadav" target="_blank">
-    <img src="https://logowik.com/content/uploads/images/github-icon8637.logowik.com.webp" alt="GitHub" width="40" height="40"/>
+    <img src="https://banner2.cleanpng.com/20240213/cxy/transparent-github-icon-stylized-cat-logo-with-transparent-1710879500319.webp" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="https://instagram.com/akhilll_yad" target="_blank">
-    <img src="https://logowik.com/content/uploads/images/instagram-icon8899.logowik.com.webp" alt="Instagram" width="40" height="40"/>
+    <img src="https://cdn-icons-png.freepik.com/256/15707/15707869.png?semt=ais_hybrid" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://twitter.com/akhilllyadav" target="_blank">
-    <img src="https://logowik.com/content/uploads/images/twitter6141.jpg" alt="Twitter" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" alt="Twitter" width="40" height="40"/>
   </a>
 </p>
 
