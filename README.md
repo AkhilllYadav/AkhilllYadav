@@ -84,9 +84,6 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://logowik.com/content/uploads/images/node-js6304.logowik.com.webp" alt="Node.js" width="40" height="40"/>
   </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-  </a>
   <!-- Databases -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://logowik.com/content/uploads/images/mongodb9740.logowik.com.webp" alt="MongoDB" width="40" height="40"/>
