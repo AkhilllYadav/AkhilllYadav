@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2J2dGh3bGk5ZXM1Y2ppczZ0Z21mZWQ4MXg4c2l5ZTdydnMxOGR1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YW1g39jepet2t5bcSh/giphy.webp)
 
 <h1 align="center">Hi 👋, I'm Akhilll Yadav</h1>
 <h3 align="center">A passionate Data Scientist and AI/ML developer from India</h3>
