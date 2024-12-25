@@ -1,4 +1,4 @@
-![MasterHead](https://www.apaservices.org/images/basics-artificial-intelligence-tile_tcm9-330426.jpg)
+![MasterHead](https://e0.pxfuel.com/wallpapers/160/257/desktop-wallpaper-best-artificial-intelligence-software-development-company-for-your-mobile-tablet-explore-machine-learning-machine-learning-machine-machine-human-machine.jpg)
 
 <h1 align="center">Hi 👋, I'm Akhilll Yadav</h1>
 <h3 align="center">A passionate Data Scientist and AI/ML developer from India</h3>
