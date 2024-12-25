@@ -1,14 +1,14 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Akhilll Yadav</h1>
-<h3 align="center">A passionate Web Developer & App Developer from India</h3>
+<h3 align="center">A passionate Data Scientist and AI/ML developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilllyadav&label=Profile%20views&color=0e75b6&style=flat" alt="akhilllyadav" /> </p>
 
-- 🌱 I’m currently learning **Flutter and Data Analytics**
+- 🌱 I’m currently learning **Data Science and AI/ML**
 
-- 💬 Ask me about **Startup, Marketing,web development, Mobile App**
+- 💬 Ask me about **Data Science, AI/ML, Startup, Product development**
 
 - 📫 How to reach me **akhilyadawa@gmail.com**
 
