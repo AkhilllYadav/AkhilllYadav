@@ -99,8 +99,21 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
----
+<h3 align="left">🌐 Social Media:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/akhilllyadav" target="_blank">
+    <img src="https://logowik.com/content/uploads/images/linkedin7555.jpg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/AkhilllYadav" target="_blank">
+    <img src="https://logowik.com/content/uploads/images/github-icon8637.logowik.com.webp" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://instagram.com/akhilll_yad" target="_blank">
+    <img src="https://logowik.com/content/uploads/images/instagram-icon8899.logowik.com.webp" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/akhilllyadav" target="_blank">
+    <img src="https://logowik.com/content/uploads/images/twitter6141.jpg" alt="Twitter" width="40" height="40"/>
+  </a>
+</p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
