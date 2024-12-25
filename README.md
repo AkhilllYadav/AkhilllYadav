@@ -1,4 +1,4 @@
-![MasterHead](https://e0.pxfuel.com/wallpapers/160/257/desktop-wallpaper-best-artificial-intelligence-software-development-company-for-your-mobile-tablet-explore-machine-learning-machine-learning-machine-machine-human-machine.jpg)
+![MasterHead](https://rejolut.com/wp-content/uploads/2024/02/DALL%C2%B7E-2024-02-21-17.38.22-Create-a-wide-banner-image-representing-the-theme-_20-Artificial-Intelligence-Project-Ideas-for-Beginners_.-The-design-should-feature-a-futuristic-te-1024x585.webp)
 
 <h1 align="center">Hi 👋, I'm Akhilll Yadav</h1>
 <h3 align="center">A passionate Data Scientist and AI/ML developer from India</h3>
