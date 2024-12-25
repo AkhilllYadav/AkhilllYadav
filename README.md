@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilllyadav&label=Profile%20views&color=0e75b6&style=flat" alt="akhilllyadav" /> </p>
 
----
+
 
 - 🌱 I’m currently learning **Data Science and AI/ML**
 - 💻 I’m working on **AI Chatbots, E-commerce Applications, and Recommendation Systems**
@@ -14,14 +14,13 @@
 - 📫 How to reach me **akhilyadawa@gmail.com**
 - ⚡ Fun fact: **I believe coffee powers creativity! ☕**
 
----
+
 
 <h3 align="left">🚀 My Featured Projects:</h3>
 - [AI E-commerce Recommendation System](#) - **Personalized shopping assistant using AI and ML algorithms**  
 - [Career Connection Portal](#) - **A job listing platform built with React, Spring Boot, and MongoDB**  
 - [Flutter E-commerce App](#) - **A mobile app for seamless online shopping**  
 
----
 
 <h3 align="left">🌟 Data Science and Machine Learning Technologies:</h3>
 <p align="left">
@@ -54,7 +53,7 @@
   </a>
 </p>
 
----
+
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
@@ -97,7 +96,7 @@
   </a>
 </p>
 
----
+
 
 <h3 align="left">🌐 Social Media:</h3>
 <p align="left">
@@ -117,10 +116,10 @@
 
 <h3 align="left">📊 GitHub Stats:</h3> <div align="center"> <!-- Top Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilllyadav&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> </div> <div align="center"> <!-- GitHub Stats and Streak --> <img src="https://github-readme-stats.vercel.app/api?username=akhilllyadav&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="margin-right: 10px;" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilllyadav&theme=radical" alt="GitHub Streak" /> </div> <div align="center"> <!-- Profile Details --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhilllyadav&theme=radical" alt="Profile Details" /> </div> <div align="center"> <!-- GitHub Trophies --> <img src="https://github-profile-trophy.vercel.app/?username=akhilllyadav&theme=radical&no-frame=true&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies" /> </div> <div align="center"> <!-- Activity Graph --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilllyadav&theme=radical" alt="Contribution Graph" /> </div> <div align="center"> <!-- Metrics --> <img src="https://github-profile-metrics.vercel.app/api?username=akhilllyadav&show=commits,prs,issues,stars,contribs&theme=radical" alt="GitHub Metrics" /> </div>
 
----
+
 
 <h3 align="left">🎯 Fun Goals:</h3> <ul> <li>🚀 Build innovative projects that push the boundaries of technology.</li> <li>🌎 Collaborate with developers worldwide and learn from diverse experiences.</li> <li>💻 Master new programming languages and frameworks.</li> <li>📚 Contribute to open-source projects and give back to the developer community.</li> <li>📊 Achieve and maintain a consistent GitHub activity streak.</li> <li>🎮 Create an AI-based gaming project just for fun.</li> <li>🏋️‍♂️ Balance tech life with fitness goals—code and lift!</li> <li>🧗‍♂️ Explore challenging problem-solving tasks like competitive programming.</li> <li>🎥 Start a YouTube channel documenting my coding journey and projects.</li> <li>✨ Inspire others to pursue their own goals and dreams in tech!</li> </ul>
----
+
 
 💖 **Feel free to fork, star, and contribute to my projects!**
 
