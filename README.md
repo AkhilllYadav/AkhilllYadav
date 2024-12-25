@@ -119,11 +119,7 @@
 
 ---
 
-<h3 align="left">🎯 Fun Goals:</h3>
-- Learn advanced **Machine Learning** algorithms.  
-- Develop an **AGI platform** for business analytics.  
-- Launch a **YouTube channel** focused on tech tutorials and projects.  
-
+<h3 align="left">🎯 Fun Goals:</h3> <ul> <li>🚀 Build innovative projects that push the boundaries of technology.</li> <li>🌎 Collaborate with developers worldwide and learn from diverse experiences.</li> <li>💻 Master new programming languages and frameworks.</li> <li>📚 Contribute to open-source projects and give back to the developer community.</li> <li>📊 Achieve and maintain a consistent GitHub activity streak.</li> <li>🎮 Create an AI-based gaming project just for fun.</li> <li>🏋️‍♂️ Balance tech life with fitness goals—code and lift!</li> <li>🧗‍♂️ Explore challenging problem-solving tasks like competitive programming.</li> <li>🎥 Start a YouTube channel documenting my coding journey and projects.</li> <li>✨ Inspire others to pursue their own goals and dreams in tech!</li> </ul>
 ---
 
 💖 **Feel free to fork, star, and contribute to my projects!**
