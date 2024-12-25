@@ -1,27 +1,29 @@
 ![MasterHead](https://rejolut.com/wp-content/uploads/2024/02/DALL%C2%B7E-2024-02-21-17.38.22-Create-a-wide-banner-image-representing-the-theme-_20-Artificial-Intelligence-Project-Ideas-for-Beginners_.-The-design-should-feature-a-futuristic-te-1024x585.webp)
 
 <h1 align="center">Hi 👋, I'm Akhilll Yadav</h1>
-<h3 align="center">A passionate Data Scientist and AI/ML Developer from India</h3>
+<h3 align="center">A passionate Data Scientist, AI/ML Developer, and Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilllyadav&label=Profile%20views&color=0e75b6&style=flat" alt="akhilllyadav" /> </p>
 
+---
+
 - 🌱 I’m currently learning **Data Science and AI/ML**
-
-- 💬 Ask me about **Data Science, AI/ML, Startup, Product Development**
-
+- 💻 I’m working on **AI Chatbots, E-commerce Applications, and Recommendation Systems**
+- 💬 Ask me about **Data Science, AI/ML, Full Stack Development, and Startup Strategies**
 - 📫 How to reach me **akhilyadawa@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akhilesh-kumar-yadav-61501b1b2/" target="blank">
-<img align="center" src="https://logowik.com/content/uploads/images/329_linkedin.jpg" alt="LinkedIn Profile" height="30" width="40" />
-</a>
-</p>
+- ⚡ Fun fact: **I believe coffee powers creativity! ☕**
 
 ---
 
-<h3 align="left">Data Science and Machine Learning Technologies:</h3>
+<h3 align="left">🚀 My Featured Projects:</h3>
+- [AI E-commerce Recommendation System](#) - **Personalized shopping assistant using AI and ML algorithms**  
+- [Career Connection Portal](#) - **A job listing platform built with React, Spring Boot, and MongoDB**  
+- [Flutter E-commerce App](#) - **A mobile app for seamless online shopping**  
+
+---
+
+<h3 align="left">🌟 Data Science and Machine Learning Technologies:</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://logowik.com/content/uploads/images/python8937.logowik.com.webp" alt="Python" width="40" height="40"/>
@@ -54,9 +56,9 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-  <!-- Programming and Markup -->
+  <!-- Programming Languages -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://logowik.com/content/uploads/images/java1655.logowik.com.webp" alt="Java" width="40" height="40"/>
   </a>
@@ -97,7 +99,19 @@
 
 ---
 
+<h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilllyadav&show_icons=true&locale=en&layout=compact" alt="akhilllyadav" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilllyadav&show_icons=true&locale=en" alt="akhilllyadav" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilllyadav&" alt="akhilllyadav" /></p>
+
+---
+
+<h3 align="left">🎯 Fun Goals:</h3>
+- Learn advanced **Machine Learning** algorithms.  
+- Develop an **AGI platform** for business analytics.  
+- Launch a **YouTube channel** focused on tech tutorials and projects.  
+
+---
+
+💖 **Feel free to fork, star, and contribute to my projects!**
 
