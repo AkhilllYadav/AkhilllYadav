@@ -97,7 +97,7 @@
 
 <h3 align="left">🌐 Social Media:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/akhilllyadav" target="_blank">
+  <a href="https://www.linkedin.com/in/akhilesh-kumar-yadav-61501b1b2/" target="_blank">
     <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kMy0xMC5wbmc.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://github.com/AkhilllYadav" target="_blank">
