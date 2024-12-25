@@ -115,27 +115,7 @@
   </a>
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilllyadav&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilllyadav&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilllyadav&theme=radical" alt="GitHub Streak" />
-</p>
-<p>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhilllyadav&theme=radical" alt="Profile Details" />
-</p>
-<p>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=akhilllyadav&theme=radical&no-frame=true&row=1" alt="GitHub Trophies" />
-</p>
-<p>
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=akhilllyadav&theme=radical" alt="Contribution Graph" />
-</p>
-
+<h3 align="left">📊 GitHub Stats:</h3> <p align="center"> <!-- Top Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilllyadav&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> </p> <p align="center"> <!-- GitHub Stats --> <img src="https://github-readme-stats.vercel.app/api?username=akhilllyadav&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /> </p> <p align="center"> <!-- GitHub Streak --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilllyadav&theme=radical" alt="GitHub Streak" /> </p> <p align="center"> <!-- Profile Details --> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhilllyadav&theme=radical" alt="Profile Details" /> </p> <p align="center"> <!-- GitHub Trophies --> <img src="https://github-profile-trophy.vercel.app/?username=akhilllyadav&theme=radical&no-frame=true&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies" /> </p> <p align="center"> <!-- Activity Graph --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilllyadav&theme=radical" alt="Contribution Graph" /> </p> <p align="center"> <!-- Metrics --> <img src="https://github-profile-metrics.vercel.app/api?username=akhilllyadav&show=commits,prs,issues,stars,contribs&theme=radical" alt="GitHub Metrics" /> </p>
 ---
 
 
