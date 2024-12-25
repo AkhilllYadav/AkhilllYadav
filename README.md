@@ -25,7 +25,7 @@
 <h3 align="left">🌟 Data Science and Machine Learning Technologies:</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://logowik.com/content/uploads/images/python8937.logowik.com.webp](https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://logowik.com/content/uploads/images/tensorflow9721.jpg" alt="TensorFlow" width="40" height="40"/>
